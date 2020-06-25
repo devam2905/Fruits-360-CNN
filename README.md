@@ -4,7 +4,7 @@ Fruits Detection using CNN model.
 
 Dataset used :
 
-## Fruits 360
+**Fruits 360**
 
 A dataset of images consists of various fruits and vegetables.
 
